@@ -1,1 +1,5 @@
 .vs
+Debug/
+Parallel Test/Debug/
+Parallel Test/Release/
+Release/
